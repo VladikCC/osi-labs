@@ -1,4 +1,3 @@
-# A6: электронные часы, формат h:mm:ss
 n = int(input()) % 86400
 hours = n // 3600
 minutes = n // 60 % 60
